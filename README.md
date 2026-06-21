@@ -2,7 +2,7 @@
 
 Junior software engineer focused on backend, software, and full-stack development, with an M.S. Computer Science background and hands-on AI/ML project experience.
 
-[Portfolio](https://hangyuyao.github.io) · [Email](mailto:yaohangyu1@gmail.com)
+[Portfolio](https://hangyuyao.github.io) · [GitHub](https://github.com/HangyuYao) · [Email](mailto:yaohangyu1@gmail.com)
 
 ## About
 
